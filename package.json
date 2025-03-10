@@ -1,0 +1,22 @@
+{
+  "name": "tma",
+  "version": "1.0.0",
+  "description": "Zombie Shooter 3D Game",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1",
+    "@types/telegram-web-app": "^7.10.1",
+    "three": "^0.128.0"
+  },
+  "devDependencies": {
+    "vite": "^5.1.4"
+  }
+}
